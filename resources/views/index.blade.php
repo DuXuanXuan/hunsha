@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <title>Mr.Wu & Miss.Bai</title>
+    <title>Mr.Li & Miss.Du</title>
     <link rel="stylesheet" href="/css/swiper.css">
     <link rel="stylesheet" href="http://wudihunsha.oss-cn-shanghai.aliyuncs.com/music.css">
     <script src="http://wudihunsha.oss-cn-shanghai.aliyuncs.com/public/js/swiper.js"></script>

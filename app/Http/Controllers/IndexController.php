@@ -42,6 +42,7 @@ class IndexController extends Controller
                     ->where('time', '<=', Input::get('time') + 30)
                     ->orderBy('time', 'asc')
                     ->get();
+        $comments = null;
         $this->data['data'] = $comments;
         return $this->data;
     }
